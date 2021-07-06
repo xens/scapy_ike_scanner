@@ -1,6 +1,6 @@
-# Scapy IKE scanning
+# Scapy IKE scanner
 
-Small Python IKE scanner
+Small Python IKE scanner poc using Scapy
 
 dependencies:
 
